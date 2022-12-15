@@ -4,7 +4,6 @@ h1 {
 }
 
 .shapes {
-  border: 1px solid black;
   width: 700px;
   margin: 0 auto;
 }
@@ -25,7 +24,6 @@ h1 {
   width: max-content;
   display: flex;
   margin: 40px auto;
-  border: 1px solid black;
   column-gap: 10px;
 }
 
@@ -37,7 +35,7 @@ h1 {
 }
 
 .tryAgain {
-  /* display: none; */
+  display: none;
   font-size: 48px;
-  text-align: center;
+  margin: 0 auto;
 }
